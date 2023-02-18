@@ -1,0 +1,7 @@
+lxml
+pyramid
+pyramid_chameleon
+requests
+
+pytest
+webtest
