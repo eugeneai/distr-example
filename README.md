@@ -13,6 +13,14 @@ pip install -r requirements.txt
 pytest -q tests.py
 ```
 
+On Windows (python):
+```bash
+python -m venv pyramid
+cd pyramid
+bin\activate.bat
+pip ....
+```
+
 Run server:
 ```bash
 python main.py
